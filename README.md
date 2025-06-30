@@ -228,34 +228,3 @@ interface Recipe {
 }
 ```
 
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Add tests if applicable
-5. Submit a pull request
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
-
-## Support
-
-For questions or issues:
-- Check the documentation above
-- Review the code comments
-- Open an issue in the repository
-
-## Future Enhancements
-
-- [ ] Recipe categories and tags
-- [ ] Recipe search and filtering
-- [ ] Recipe sharing functionality
-- [ ] Image upload for recipes
-- [ ] Recipe scaling (serving size adjustment)
-- [ ] Export to PDF/print functionality
-- [ ] Recipe ratings and reviews
-- [ ] Meal planning calendar
-- [ ] Shopping list generation
-- [ ] Recipe import from URLs 
