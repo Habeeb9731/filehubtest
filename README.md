@@ -121,25 +121,16 @@ Built on: June 30, 2025
    npm install
    ```
 
-3. **Configure Nutrition API (Optional)**
-   
-   The application includes a nutrition service that can integrate with real nutrition APIs. To use real nutrition data:
-   
-   - Sign up for a nutrition API service (e.g., Edamam Food Database API)
-   - Update the credentials in `src/app/services/nutrition.service.ts`:
-   ```typescript
-   private readonly APP_ID = 'YOUR_APP_ID';
-   private readonly APP_KEY = 'YOUR_APP_KEY';
    ```
    
    If you don't configure the API, the application will use mock data for demonstration purposes.
 
-4. **Start the development server**
+3. **Start the development server**
    ```bash
    npm start
    ```
 
-5. **Open your browser**
+4. **Open your browser**
    Navigate to `http://localhost:4200`
 
 ### Build for Production
